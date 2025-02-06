@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sarah Saqr
 
-<!--
-**Sarah-Saqr/Sarah-Saqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
 
-Here are some ideas to get you started:
+- **UI/UX Designer** with a strong focus on usability and human-centered design.
+- **Design Thinker** committed to enhancing user interactions and digital experiences.
+- **Creative Problem Solver** always exploring innovative design solutions to improve engagement and functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 Skills & Tools
+
+- **Design Software**: Figma, Adobe XD, Sketch
+- **User Research & Prototyping**: Wireframing, user testing, interaction design
+- **Branding & Visual Design**: Typography, color theory, design systems
+
+## 📌 Featured Projects
+
+- 🎨 [**Portfolio Website**](https://github.com/your-username/your-portfolio) – A showcase of my UI/UX design projects and case studies.
+- 📱 [**Mobile App UI Design**](https://github.com/your-username/app-design) – A collection of modern mobile UI designs.
+  [[]]
+
+## 📬 Let's Connect
+
+- [📧 Gmail](swael591@gmail.com)
+
+Thanks for stopping by! Feel free to explore my work and connect with me. 🚀
