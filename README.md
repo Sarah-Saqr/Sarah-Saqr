@@ -14,9 +14,8 @@
 
 ## 📌 Featured Projects
 
-- 🎨 [**Portfolio Website**]([https://github.com/your-username/your-portfolio](https://sarah-saqr.github.io/Portfolio/)) – A showcase of my UI/UX design projects and case studies.
+- 🎨 [**Portfolio Website**](https://sarah-saqr.github.io/Portfolio/) – A showcase of my UI/UX design projects and case studies.
 - 📱 [**Mobile App UI Design**](https://github.com/your-username/app-design) – A collection of modern mobile UI designs.
-  [[]]
 
 ## 📬 Let's Connect
 
