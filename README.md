@@ -12,10 +12,9 @@
 - **User Research & Prototyping**: Wireframing, user testing, interaction design
 - **Branding & Visual Design**: Typography, color theory, design systems
 
-## 📌 Featured Projects
+## 📌 My Portfolio
 
 - 🎨 [**Portfolio Website**](https://sarah-saqr.github.io/Portfolio/) – A showcase of my UI/UX design projects and case studies.
-- 📱 [**Mobile App UI Design**](https://github.com/your-username/app-design) – A collection of modern mobile UI designs.
 
 ## 📬 Let's Connect
 
